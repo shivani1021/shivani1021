@@ -17,7 +17,7 @@
 </p>
 
 ### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivani123&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivani1021&show_icons=true&theme=radical)
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOURUSERNAME)
