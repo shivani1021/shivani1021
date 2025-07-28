@@ -1,5 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Shivani Mahato
+🎓 BCA Student | 💻 Frontend Developer | 📊 Aspiring Full Stack Developer 
 
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js (optional)
+- Tools: Git, GitHub, VS Code, Netlify, 
+
+## 🚀 Projects
+- ✨ [Portfolio Website](https://your-portfolio.netlify.app)
+- 🚗 Vehicle Detection using YOLOv8
+- 📊 Data Dashboard in React
 <!--
 **shivani1021/shivani1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
