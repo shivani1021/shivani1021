@@ -7,7 +7,6 @@
 - Tools: Git, GitHub, VS Code, Netlify, 
 
 ## 🚀 Projects
-- ✨ [Portfolio Website](https://your-portfolio.netlify.app)
 - 🚗 Vehicle Detection using YOLOv8
 - 📊 Data Dashboard in React
 <!--
