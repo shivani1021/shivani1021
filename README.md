@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **a vehicle detection system**
 - 🌱 I’m currently learning **React.js & APIs**
 - 💬 Ask me about **HTML, CSS, JS, GitHub**
-- 📫 How to reach me: **shivani@gmail.com**
+- 📫 How to reach me: **shivani1021@gmail.com**
 - ⚡ Fun fact: I love creating UIs and debugging code!
 
 ### 🛠️ Languages and Tools:
